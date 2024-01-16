@@ -12,7 +12,7 @@ if (usuario==nombreUsuario){
             ingreso = true;
             break
         } else{
-            alert("Contraseña incorrecta. Tiene "+i+" intentos restante")
+            alert("Contraseña incorrecta. Tiene "+i+" intentos restantes.")
         }
     }
 }else{
